@@ -1,0 +1,15 @@
+/home/dasem/psu/sasha/scoreboard/src/main/java/psu/server/ServerStarter.java
+/home/dasem/psu/sasha/scoreboard/src/main/java/psu/server/UserConnection.java
+/home/dasem/psu/sasha/scoreboard/src/main/java/psu/utils/CustomTimer.java
+/home/dasem/psu/sasha/scoreboard/src/main/java/psu/utils/Utils.java
+/home/dasem/psu/sasha/scoreboard/src/main/java/psu/server/IPSender.java
+/home/dasem/psu/sasha/scoreboard/src/main/java/psu/entities/ConnectionResult.java
+/home/dasem/psu/sasha/scoreboard/src/main/java/psu/entities/MessageType.java
+/home/dasem/psu/sasha/scoreboard/src/main/java/psu/client/ClientController.java
+/home/dasem/psu/sasha/scoreboard/src/main/java/psu/entities/Message.java
+/home/dasem/psu/sasha/scoreboard/src/main/java/psu/utils/GlobalConstants.java
+/home/dasem/psu/sasha/scoreboard/src/main/java/psu/server/ServerStarterController.java
+/home/dasem/psu/sasha/scoreboard/src/main/java/psu/client/ClientMessageWorker.java
+/home/dasem/psu/sasha/scoreboard/src/main/java/psu/utils/FileSender.java
+/home/dasem/psu/sasha/scoreboard/src/main/java/psu/server/ServerController.java
+/home/dasem/psu/sasha/scoreboard/src/main/java/psu/client/ClientStarter.java

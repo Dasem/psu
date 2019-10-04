@@ -1,0 +1,13 @@
+/home/dasem/psu/sasha/NE_SCOREBOARD/scoreboard/src/main/java/psu/client/FileExporterClient.java
+/home/dasem/psu/sasha/NE_SCOREBOARD/scoreboard/src/main/java/psu/client/FileExporterClientController.java
+/home/dasem/psu/sasha/NE_SCOREBOARD/scoreboard/src/main/java/psu/entities/MessageType.java
+/home/dasem/psu/sasha/NE_SCOREBOARD/scoreboard/src/main/java/psu/client/ClientMessageWorker.java
+/home/dasem/psu/sasha/NE_SCOREBOARD/scoreboard/src/main/java/psu/entities/ConnectionResult.java
+/home/dasem/psu/sasha/NE_SCOREBOARD/scoreboard/src/main/java/psu/utils/FileSender.java
+/home/dasem/psu/sasha/NE_SCOREBOARD/scoreboard/src/main/java/psu/client/LoginFormController.java
+/home/dasem/psu/sasha/NE_SCOREBOARD/scoreboard/src/main/java/psu/server/Server.java
+/home/dasem/psu/sasha/NE_SCOREBOARD/scoreboard/src/main/java/psu/server/IPSender.java
+/home/dasem/psu/sasha/NE_SCOREBOARD/scoreboard/src/main/java/psu/utils/Utils.java
+/home/dasem/psu/sasha/NE_SCOREBOARD/scoreboard/src/main/java/psu/server/UserConnection.java
+/home/dasem/psu/sasha/NE_SCOREBOARD/scoreboard/src/main/java/psu/utils/GlobalConstants.java
+/home/dasem/psu/sasha/NE_SCOREBOARD/scoreboard/src/main/java/psu/entities/Message.java

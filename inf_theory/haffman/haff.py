@@ -7,6 +7,26 @@ import operator
 debug = 'debug' in sys.argv
 custom_filename = 'custom' in sys.argv
 
+def haffman(source_dict):
+    global keys
+    next_dict = source_dict
+    srt = sorted(source_dict.items(), key=lambda kv: kv[1], reverse = False)
+    
+    next_dict[srt[0][0] + srt[1][0]]=srt[0][1]+srt[1][1]
+    
+    for key in srt[0][0]:
+        keys[key]+='0'
+    for key in srt[1][0]:
+        keys[key]+='1'
+    del next_dict[srt[0][0]]
+    del next_dict[srt[1][0]]
+     
+    if debug:
+        print('next_dict', next_dict)
+
+    if len(next_dict) != 1:
+        haffman(next_dict)
+
 def to_stringbytes(s):
     for i in range(0, len(s), 8):
         ins = s[i:i + 8]
@@ -50,26 +70,6 @@ f.close()
 keys = dict()
 for key in dicto: # preparing result map
     keys[key] = ''
-
-def haffman(source_dict):
-    global keys
-    next_dict = source_dict
-    srt = sorted(source_dict.items(), key=lambda kv: kv[1], reverse = False)
-    
-    next_dict[srt[0][0] + srt[1][0]]=srt[0][1]+srt[1][1]
-    
-    for key in srt[0][0]:
-        keys[key]+='0'
-    for key in srt[1][0]:
-        keys[key]+='1'
-    del next_dict[srt[0][0]]
-    del next_dict[srt[1][0]]
-     
-    if debug:
-        print('next_dict', next_dict)
-
-    if len(next_dict) != 1:
-        haffman(next_dict)
 
 haffman(dicto)
 
