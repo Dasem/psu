@@ -13,4 +13,6 @@ for i in range(message_length):
     randomed = random.random()
     result += '0' if randomed > ver_error else '1'
 
+
+
 print(result)
