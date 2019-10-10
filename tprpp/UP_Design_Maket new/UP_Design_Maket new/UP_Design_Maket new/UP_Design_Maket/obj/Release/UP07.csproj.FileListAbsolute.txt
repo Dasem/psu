@@ -1,0 +1,54 @@
+D:\Downloads\New_version_9001\New_version_9000\UP_Design_Maket\UP_Design_Maket\bin\Release\UP_Design_Maket.exe.config
+D:\Downloads\New_version_9001\New_version_9000\UP_Design_Maket\UP_Design_Maket\bin\Release\UP_Design_Maket.exe
+D:\Downloads\New_version_9001\New_version_9000\UP_Design_Maket\UP_Design_Maket\bin\Release\UP_Design_Maket.pdb
+D:\Downloads\New_version_9001\New_version_9000\UP_Design_Maket\UP_Design_Maket\obj\Release\UP07.csprojResolveAssemblyReference.cache
+D:\Downloads\New_version_9001\New_version_9000\UP_Design_Maket\UP_Design_Maket\obj\Release\UP_Design_Maket.CreateMatrix.resources
+D:\Downloads\New_version_9001\New_version_9000\UP_Design_Maket\UP_Design_Maket\obj\Release\UP_Design_Maket.MainForm.resources
+D:\Downloads\New_version_9001\New_version_9000\UP_Design_Maket\UP_Design_Maket\obj\Release\UP_Design_Maket.ForOutputMatrix.resources
+D:\Downloads\New_version_9001\New_version_9000\UP_Design_Maket\UP_Design_Maket\obj\Release\UP_Design_Maket.Properties.Resources.resources
+D:\Downloads\New_version_9001\New_version_9000\UP_Design_Maket\UP_Design_Maket\obj\Release\UP07.csproj.GenerateResource.Cache
+D:\Downloads\New_version_9001\New_version_9000\UP_Design_Maket\UP_Design_Maket\obj\Release\UP_Design_Maket.exe
+D:\Downloads\New_version_9001\New_version_9000\UP_Design_Maket\UP_Design_Maket\obj\Release\UP_Design_Maket.pdb
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket\bin\Release\UP_Design_Maket.exe.config
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP_Design_Maket.exe
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP_Design_Maket.pdb
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket\bin\Release\UP_Design_Maket.exe
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket\bin\Release\UP_Design_Maket.pdb
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP_Design_Maket.CreateMatrix.resources
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP_Design_Maket.Inf.resources
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP_Design_Maket.MainForm.resources
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP_Design_Maket.ForOutputMatrix.resources
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP_Design_Maket.Properties.Resources.resources
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP_Design_Maket.SelectInf.resources
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP07.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP_Design_Maket.OperProgress.resources
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP07.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket\bin\Release\UP_Design_Maket.exe.config
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP_Design_Maket.exe
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP_Design_Maket.pdb
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket\bin\Release\UP_Design_Maket.exe
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket\bin\Release\UP_Design_Maket.pdb
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP07.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP_Design_Maket.CreateMatrix.resources
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP_Design_Maket.Inf.resources
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP_Design_Maket.MainForm.resources
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP_Design_Maket.ForOutputMatrix.resources
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP_Design_Maket.OperProgress.resources
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP_Design_Maket.Properties.Resources.resources
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP_Design_Maket.SelectInf.resources
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP07.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket\bin\Release\UP_Design_Maket.exe.config
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP_Design_Maket.exe
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP_Design_Maket.pdb
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket\bin\Release\UP_Design_Maket.exe
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket\bin\Release\UP_Design_Maket.pdb
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP07.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP_Design_Maket.CreateMatrix.resources
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP_Design_Maket.Inf.resources
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP_Design_Maket.MainForm.resources
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP_Design_Maket.ForOutputMatrix.resources
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP_Design_Maket.OperProgress.resources
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP_Design_Maket.Properties.Resources.resources
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP_Design_Maket.SelectInf.resources
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP07.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket new\UP_Design_Maket\obj\Release\UP_Design_Maket.Fparent.resources

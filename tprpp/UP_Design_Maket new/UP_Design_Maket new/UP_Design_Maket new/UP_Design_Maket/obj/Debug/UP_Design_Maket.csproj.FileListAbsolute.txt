@@ -1,0 +1,71 @@
+G:\C#\UP_Design_Maket\UP_Design_Maket\bin\Debug\UP_Design_Maket.exe.config
+G:\C#\UP_Design_Maket\UP_Design_Maket\bin\Debug\UP_Design_Maket.exe
+G:\C#\UP_Design_Maket\UP_Design_Maket\bin\Debug\UP_Design_Maket.pdb
+G:\C#\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.csprojResolveAssemblyReference.cache
+G:\C#\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.Form1.resources
+G:\C#\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.Properties.Resources.resources
+G:\C#\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.csproj.GenerateResource.Cache
+G:\C#\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.exe
+G:\C#\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.pdb
+G:\C#\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.Form2.resources
+D:\Downloads\UP\UP_Design_Maket\UP_Design_Maket\bin\Debug\UP_Design_Maket.exe.config
+D:\Downloads\UP\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.exe
+D:\Downloads\UP\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.pdb
+D:\Downloads\UP\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.csprojResolveAssemblyReference.cache
+D:\Downloads\UP\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.Form1.resources
+D:\Downloads\UP\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.Form2.resources
+D:\Downloads\UP\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.Properties.Resources.resources
+D:\Downloads\UP\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.csproj.GenerateResource.Cache
+D:\Downloads\UP\UP_Design_Maket\UP_Design_Maket\bin\Debug\UP_Design_Maket.exe
+D:\Downloads\UP\UP_Design_Maket\UP_Design_Maket\bin\Debug\UP_Design_Maket.pdb
+D:\Downloads\UP\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.ForOutputMatrix.resources
+C:\Users\user\Desktop\UP\UP\UP_Design_Maket\UP_Design_Maket\bin\Debug\UP_Design_Maket.exe.config
+C:\Users\user\Desktop\UP\UP\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.exe
+C:\Users\user\Desktop\UP\UP\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.pdb
+C:\Users\user\Desktop\Учебная\2 КУРС\2 триместр\УП\Программа\С пары2\UP_Design_Maket\UP_Design_Maket\bin\Debug\UP_Design_Maket.exe.config
+C:\Users\user\Desktop\Учебная\2 КУРС\2 триместр\УП\Программа\С пары2\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.exe
+C:\Users\user\Desktop\Учебная\2 КУРС\2 триместр\УП\Программа\С пары2\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.pdb
+C:\Users\user\Desktop\Учебная\2 КУРС\2 триместр\УП\Программа\С пары2\UP_Design_Maket\UP_Design_Maket\bin\Debug\UP_Design_Maket.exe
+C:\Users\user\Desktop\Учебная\2 КУРС\2 триместр\УП\Программа\С пары2\UP_Design_Maket\UP_Design_Maket\bin\Debug\UP_Design_Maket.pdb
+C:\Users\user\Desktop\Учебная\2 КУРС\2 триместр\УП\Программа\С пары2\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Учебная\2 КУРС\2 триместр\УП\Программа\С пары2\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.Form1.resources
+C:\Users\user\Desktop\Учебная\2 КУРС\2 триместр\УП\Программа\С пары2\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.Form2.resources
+C:\Users\user\Desktop\Учебная\2 КУРС\2 триместр\УП\Программа\С пары2\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.ForOutputMatrix.resources
+C:\Users\user\Desktop\Учебная\2 КУРС\2 триместр\УП\Программа\С пары2\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.Properties.Resources.resources
+C:\Users\user\Desktop\Учебная\2 КУРС\2 триместр\УП\Программа\С пары2\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.csproj.GenerateResource.Cache
+D:\Downloads\Poka_tabotaet3\UP_Design_Maket\UP_Design_Maket\bin\Debug\UP_Design_Maket.exe.config
+D:\Downloads\Poka_tabotaet3\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.exe
+D:\Downloads\Poka_tabotaet3\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.pdb
+D:\Downloads\Poka_tabotaet3\UP_Design_Maket\UP_Design_Maket\bin\Debug\UP_Design_Maket.exe
+D:\Downloads\Poka_tabotaet3\UP_Design_Maket\UP_Design_Maket\bin\Debug\UP_Design_Maket.pdb
+D:\Downloads\Poka_tabotaet3\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.csprojResolveAssemblyReference.cache
+D:\Downloads\Poka_tabotaet3\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.ForOutputMatrix.resources
+D:\Downloads\Poka_tabotaet3\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.Properties.Resources.resources
+D:\Downloads\Poka_tabotaet3\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.csproj.GenerateResource.Cache
+D:\Downloads\Poka_tabotaet3\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.CreateMatrix.resources
+D:\Downloads\Poka_tabotaet3\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.MainForm.resources
+C:\Users\user\Desktop\Учебная\2 КУРС\2 триместр\УП\Программа\С пары2\Normas_v2_0_raro4ka\UP_Design_Maket\UP_Design_Maket\bin\Debug\UP_Design_Maket.exe.config
+C:\Users\user\Desktop\Учебная\2 КУРС\2 триместр\УП\Программа\С пары2\Normas_v2_0_raro4ka\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.exe
+C:\Users\user\Desktop\Учебная\2 КУРС\2 триместр\УП\Программа\С пары2\Normas_v2_0_raro4ka\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.pdb
+C:\Users\user\Desktop\Учебная\2 КУРС\2 триместр\УП\Программа\С пары2\Normas_v2_0_raro4ka\UP_Design_Maket\UP_Design_Maket\bin\Debug\UP_Design_Maket.exe
+C:\Users\user\Desktop\Учебная\2 КУРС\2 триместр\УП\Программа\С пары2\Normas_v2_0_raro4ka\UP_Design_Maket\UP_Design_Maket\bin\Debug\UP_Design_Maket.pdb
+C:\Users\user\Desktop\Учебная\2 КУРС\2 триместр\УП\Программа\С пары2\Normas_v2_0_raro4ka\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Учебная\2 КУРС\2 триместр\УП\Программа\С пары2\Normas_v2_0_raro4ka\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.CreateMatrix.resources
+C:\Users\user\Desktop\Учебная\2 КУРС\2 триместр\УП\Программа\С пары2\Normas_v2_0_raro4ka\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.MainForm.resources
+C:\Users\user\Desktop\Учебная\2 КУРС\2 триместр\УП\Программа\С пары2\Normas_v2_0_raro4ka\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.ForOutputMatrix.resources
+C:\Users\user\Desktop\Учебная\2 КУРС\2 триместр\УП\Программа\С пары2\Normas_v2_0_raro4ka\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.Properties.Resources.resources
+C:\Users\user\Desktop\Учебная\2 КУРС\2 триместр\УП\Программа\С пары2\Normas_v2_0_raro4ka\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.csproj.GenerateResource.Cache
+D:\Downloads\Normas_v2_0_raro4ka\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.csprojResolveAssemblyReference.cache
+D:\Downloads\Normas_v2_0_raro4ka\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.CreateMatrix.resources
+D:\Downloads\Normas_v2_0_raro4ka\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.MainForm.resources
+D:\Downloads\Normas_v2_0_raro4ka\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.ForOutputMatrix.resources
+D:\Downloads\Normas_v2_0_raro4ka\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.Properties.Resources.resources
+D:\Downloads\Normas_v2_0_raro4ka\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.csproj.GenerateResource.Cache
+D:\Downloads\Normas_v2_0_raro4ka\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.exe
+D:\Downloads\Normas_v2_0_raro4ka\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.pdb
+D:\Downloads\Normas_v2_0_raro4ka\UP_Design_Maket\UP_Design_Maket\bin\Debug\UP_Design_Maket.exe.config
+D:\Downloads\Normas_v2_0_raro4ka\UP_Design_Maket\UP_Design_Maket\bin\Debug\UP_Design_Maket.exe
+D:\Downloads\Normas_v2_0_raro4ka\UP_Design_Maket\UP_Design_Maket\bin\Debug\UP_Design_Maket.pdb
+C:\Users\user\Desktop\Учебная\2 КУРС\2 триместр\УП\Программа\Последнее\New_version_9000\UP_Design_Maket\UP_Design_Maket\bin\Debug\UP_Design_Maket.exe.config
+C:\Users\user\Desktop\Учебная\2 КУРС\2 триместр\УП\Программа\Последнее\New_version_9000\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.exe
+C:\Users\user\Desktop\Учебная\2 КУРС\2 триместр\УП\Программа\Последнее\New_version_9000\UP_Design_Maket\UP_Design_Maket\obj\Debug\UP_Design_Maket.pdb
