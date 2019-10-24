@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import math
 
 f = open(input('Input file name :'), 'r')

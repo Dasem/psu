@@ -92,5 +92,7 @@ coded = bitstring_to_bytes(mas_bytes)
 if debug:
     print(coded)
 
+print ('Len of coded text: ', len(bitstring), 'original/coded = ', len(bitstring)/len(text))
+
 w = open('coded', 'wb')
 w.write(coded)
