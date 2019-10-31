@@ -58,3 +58,10 @@ print("tochki: ", tochki)
 
 print("len tochki: ", len(tochki))
 
+# For manual calc
+a = (1,28)
+a2 = summ(a,a)
+a4 = summ(a2,a2)
+a8 = summ(a4,a4)
+a12 = summ(a4,a8)
+print(summ(a12,(7,36)))
