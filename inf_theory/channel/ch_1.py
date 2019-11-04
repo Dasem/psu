@@ -9,9 +9,9 @@ from sys import argv
 def compliance(n, k):
     return math.factorial(n)/(math.factorial(n-k)*math.factorial(k))
 
-koef = 0.95 # for probability 0.9
+koef = 3.84 # for probability 0.9
 message_length = 10000
-eps = 100 # spread
+eps = 0.01 # spread
 ver_error = float(argv[2])
 
 if len(argv) > 1:
@@ -57,7 +57,7 @@ for i in range(0, len(modeled), n):
 for i in range(n):
     model_dict[i]/=message_length/n
 
-enough = (eps**2*(1-koef))/(ver_error*(1-ver_error))
+enough = koef*ver_error**(1-ver_error)/eps**2
 
 print('Modelled probability: ', model_dict)
 print('Enough length: ', enough)

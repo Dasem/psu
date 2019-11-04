@@ -65,11 +65,17 @@ rcon = [[0x01, 0x02, 0x04, 0x08, 0x10, 0x20, 0x40, 0x80, 0x1b, 0x36],
 ]
 
 
-def encrypt(input_bytes, key):
+def encrypt(text, key):
+
+    input_bytes = list(map(lambda x: ord(x), text))
+
+    if len(text) != 16 or len(key) != 16:
+        return 'Len text and key must be 16!'
+        
     """Function encrypts the input_bytes according to AES(128) algorithm using the key
 
     Args:
-       input_bytes -- list of int less than 255, ie list of bytes. Length of input_bytes is constantly 16
+       text -- text (len = 16)
        key -- a strig of plain text. Do not forget it! The same string is used in decryption   
 
     Returns:
@@ -101,8 +107,8 @@ def encrypt(input_bytes, key):
     for r in range(4):
         for c in range(nb):
             output[r + 4 * c] = state[r][c]
-
-    return output
+    
+    return (output, ''.join(list(map(lambda x: chr(x) ,output))))
 
 
 def decrypt(cipher, key):
@@ -145,7 +151,7 @@ def decrypt(cipher, key):
         for c in range(nb):
             output[r + 4 * c] = state[r][c]
 
-    return output
+    return (output, ''.join(list(map(lambda x: chr(x), output))))
 
 
 def sub_bytes(state, inv=False):
@@ -351,22 +357,18 @@ def mul_by_03(num):
 
 
 def mul_by_09(num):
-    # return mul_by_03(num)^mul_by_03(num)^mul_by_03(num) - works wrong, I don't know why
     return mul_by_02(mul_by_02(mul_by_02(num))) ^ num
 
 
 def mul_by_0b(num):
-    # return mul_by_09(num)^mul_by_02(num)
     return mul_by_02(mul_by_02(mul_by_02(num))) ^ mul_by_02(num) ^ num
 
 
 def mul_by_0d(num):
-    # return mul_by_0b(num)^mul_by_02(num)
     return mul_by_02(mul_by_02(mul_by_02(num))) ^ mul_by_02(mul_by_02(num)) ^ num
 
 
 def mul_by_0e(num):
-    # return mul_by_0d(num)^num
     return mul_by_02(mul_by_02(mul_by_02(num))) ^ mul_by_02(mul_by_02(num)) ^ mul_by_02(num)
 
 # End of small helpful functions block

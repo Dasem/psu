@@ -51,17 +51,17 @@ def poryadok(tochka):
         step = summ(step, tochka)
     return 1+i
 
-def generated_points(tochka):
-    step = tochka
-    i = 0
-    while step != None:
-        i+=1
-        print(step)
-        step = summ(step, tochka)
+for tochka in tochki:
+    print(poryadok(tochka), tochka)
 
-print(summ((53,40),(57,20)))
+print("tochki: ", tochki)
 
-#generated_points((3,57))
+print("len tochki: ", len(tochki))
 
-#for tochka in tochki:
-#    print(poryadok(tochka), tochka)
+# For manual calc
+a = (1,28)
+a2 = summ(a,a)
+a4 = summ(a2,a2)
+a8 = summ(a4,a4)
+a12 = summ(a4,a8)
+print(summ(a12,(7,36)))

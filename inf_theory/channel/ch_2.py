@@ -8,6 +8,12 @@ message_length = 1000
 ver_state_good = 0.9
 ver_state_bad = 0.4
 
+ver_error_in_good = 0.01
+
+ver_error_in_bad = 0.8
+
+n = 10
+
 good_state = True
 
 result = ''
@@ -20,6 +26,10 @@ for i in range(message_length):
     else:
         if randomed > ver_state_bad:
             good_state = True
-    result += '0' if good_state else '1'
+
+    if good_state:
+        result+= '0' if random.random() > ver_error_in_good else '1'
+    else:
+        result+= '0' if random.random() > ver_error_in_bad else '1'
 
 print(result)
