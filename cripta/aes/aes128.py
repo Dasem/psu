@@ -167,7 +167,7 @@ def sub_bytes(state, inv=False):
 
     """
 
-    if inv == False:  # encrypt
+    if not inv:  # encrypt
         box = sbox
     else:  # decrypt
         box = inv_sbox

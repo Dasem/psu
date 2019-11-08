@@ -12,10 +12,10 @@ def compliance(n, k):
 koef = 3.84 # for probability 0.9
 message_length = 10000
 eps = 0.01 # spread
-ver_error = float(argv[2])
+ver_error = 0.1 #float(argv[2])
 
-if len(argv) > 1:
-    message_length = int(argv[1])
+#if len(argv) > 1:
+#    message_length = int(argv[1])
 
 print('koef: ', koef)
 print('message_length: ', message_length)
@@ -39,10 +39,10 @@ if (message_length%n !=0):
 expect_dict = dict()
 model_dict = dict()
 
-for i in range(n):
+for i in range(n+1):
     model_dict[i]=0
 
-for i in range(n):
+for i in range(n+1):
     expect_dict[i] = compliance(n, i) * ver_error**i *(1-ver_error)**(n-i)
 
 print('Expected probability: ', expect_dict)
@@ -54,7 +54,7 @@ for i in range(0, len(modeled), n):
             count_err += 1
     model_dict[count_err] += 1
 
-for i in range(n):
+for i in range(n+1):
     model_dict[i]/=message_length/n
 
 enough = koef*ver_error**(1-ver_error)/eps**2
