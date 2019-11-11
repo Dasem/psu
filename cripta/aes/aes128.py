@@ -133,18 +133,12 @@ def decrypt(cipher, key):
 
     state = add_round_key(state, key_schedule, nr)
 
-    rnd = nr - 1
-    while rnd >= 1:
+    for rnd in reversed(range(nr)):
         state = shift_rows(state, inv=True)
         state = sub_bytes(state, inv=True)
         state = add_round_key(state, key_schedule, rnd)
-        state = mix_columns(state, inv=True)
-
-        rnd -= 1
-
-    state = shift_rows(state, inv=True)
-    state = sub_bytes(state, inv=True)
-    state = add_round_key(state, key_schedule, rnd)
+        if rnd != 0:
+            state = mix_columns(state, inv=True)
 
     output = [None for i in range(4 * nb)]
     for r in range(4):
@@ -195,16 +189,12 @@ def shift_rows(state, inv=False):
 
     """
 
-    count = 1
-
     if inv == False:  # encrypting
         for i in range(1, nb):
-            state[i] = left_shift(state[i], count)
-            count += 1
+            state[i] = left_shift(state[i], i)
     else:  # decryptionting
         for i in range(1, nb):
-            state[i] = right_shift(state[i], count)
-            count += 1
+            state[i] = right_shift(state[i], i)
 
     return state
 
@@ -239,7 +229,6 @@ def mix_columns(state, inv=False):
         state[3][i] = s3
 
     return state
-
 
 def key_expansion(key):
     """It makes list of RoundKeys for function AddRoundKey. All details 
@@ -297,15 +286,8 @@ def add_round_key(state, key_schedule, round=0):
 
     for col in range(nk):
         # nb*round is a shift which indicates start of a part of the KeySchedule
-        s0 = state[0][col] ^ key_schedule[0][nb * round + col]
-        s1 = state[1][col] ^ key_schedule[1][nb * round + col]
-        s2 = state[2][col] ^ key_schedule[2][nb * round + col]
-        s3 = state[3][col] ^ key_schedule[3][nb * round + col]
-
-        state[0][col] = s0
-        state[1][col] = s1
-        state[2][col] = s2
-        state[3][col] = s3
+        for row in range(4):
+            state[row][col] ^= key_schedule[row][nb * round + col]
 
     return state
 
@@ -315,7 +297,7 @@ def add_round_key(state, key_schedule, round=0):
 def left_shift(array, count):
     """Rotate the array over count times"""
 
-    res = array[:]
+    res = array[:] # magic for array deep copy
     for i in range(count):
         temp = res[1:]
         temp.append(res[0])
@@ -327,7 +309,7 @@ def left_shift(array, count):
 def right_shift(array, count):
     """Rotate the array over count times"""
 
-    res = array[:]
+    res = array[:] # same as left shift
     for i in range(count):
         tmp = res[:-1]
         tmp.insert(0, res[-1])

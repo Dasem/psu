@@ -69,6 +69,11 @@ for i in range(0, len(result), n):
 for i in range(n+1):
     model_dict[i]/=message_length/n
 
+#for i in range(11):
+#    print(i,': ', p1**i * p0**(10-i))
+
+print((p0*(1-e0))**10)
+
 print('Modelled probability: ', model_dict)
 
 print('probability in general (modelled): ', count1/message_length)
