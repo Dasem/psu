@@ -108,7 +108,7 @@ def encrypt(text, key):
         for c in range(nb):
             output[r + 4 * c] = state[r][c]
     
-    return (output, ''.join(list(map(lambda x: chr(x) ,output))))
+    return (output, ''.join(list(map(lambda x: chr(x) ,output))), ''.join(list(map(lambda x: hex(x) ,output))))
 
 
 def decrypt(cipher, key):

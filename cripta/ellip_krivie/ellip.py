@@ -63,5 +63,5 @@ print(summ((53,40),(57,20)))
 
 #generated_points((3,57))
 
-#for tochka in tochki:
-#    print(poryadok(tochka), tochka)
+for tochka in tochki:
+    print(poryadok(tochka), tochka)
